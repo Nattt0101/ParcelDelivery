@@ -1,0 +1,36 @@
+﻿@model Assignment1.Models.IssueCashVoucher
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+    </style>
+</body>
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width: 700px;
+            padding: 15px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+            <h1>Search Customer</h1>
+            <form>
+                <label for="cname">Customer Name</label><br />
+                <input type="text" id="cname" name="cname" placeholder="e.g. John Doe" required />
+                <label for="cno">Customer Contact</label><br />
+                <input type="tel" id="cno" name="cno" placeholder="e.g. 93821283" required /><br /><br />
+                <button href="#">Search</button>
+            </form>
+        </div>
+    </div>
+</div>

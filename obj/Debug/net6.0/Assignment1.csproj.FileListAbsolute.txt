@@ -1,0 +1,1178 @@
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Folder\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment1.props
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\Folder\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Humanizer.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Common.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment1.props
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CopyComplete
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\code\02_WebApr2023_T2\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CopyComplete
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\Users\Esaiaschionh\OneDrive\Desktop\NPPPPPP\Sem3\WEB\Assignment\project\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\projectbundle\Assignment1.bundle.scp.css
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CopyComplete
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Documents\Assignment 1\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Humanizer.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Common.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEB assignment\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CopyComplete
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment1.props
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\WEB assignment\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\appsettings.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.staticwebassets.runtime.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.exe
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.deps.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.runtimeconfig.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Assignment1.pdb
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.RazorAssemblyInfo.cs
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment1.props
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\scopedcss\bundle\Assignment1.styles.css
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.csproj.CopyComplete
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\refint\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.pdb
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.genruntimeconfig.cache
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\ref\Assignment1.dll
+C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\obj\Debug\net6.0\Assignment1.sourcelink.json

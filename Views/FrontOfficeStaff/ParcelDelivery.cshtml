@@ -1,0 +1,196 @@
+﻿@model Assignment1.Models.Parcel
+
+@{
+    ViewData["Title"] = "ParcelDelivery";
+    
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+    </style>
+</body>
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width: 700px;
+            padding: 45px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+
+<h1>Add Parcel</h1>
+
+<h4>Parcel Delivery</h4>
+
+</div>
+
+<hr />
+        <form asp-action="AddParcel" class="parcel-form">
+
+            <label asp-for="SenderName">Sender Name</label>
+                    <input asp-for="SenderName" class="form-control" />
+            <div class="col-sm-9 col-md-12">
+                    <span asp-validation-for="SenderName"
+                          class="text-danger"></span>
+                          </div>
+            
+            <div class="form-group">
+                <label asp-for="SenderTelNo">Sender Telephone No.:</label>
+                <input asp-for="SenderTelNo" id="SenderTelNo" name="SenderTelNo">
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="SenderTelNo" class="text-danger"></span><br />
+                <small class="form-text text-muted">Format: +6598765432</small>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverName">Receiver Name:</label>
+                <input asp-for="ReceiverName" id="ReceiverName">
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="ReceiverName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReceiverTel">Receiver Telephone No.:</label>
+                <input asp-for="ReceiverTel" id="ReceiverTel" name="ReceiverTel">
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="ReceiverTel" class="text-danger"></span><br />
+                <small class="form-text text-muted">Format: +6598765432</small>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="DeliveryAddress">Delivery Address:</label>
+                <input asp-for="DeliveryAddress" id="DeliveryAddress">
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="DeliveryAddress" class="text-danger"></span>
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <p><b>From Country</b></p>
+                <select asp-for="FromCountry" asp-items="@(ViewData["CountryList"] as List<SelectListItem>)" id="countryList" onchange="handleDropDownList()"></select>
+            </div>
+
+            <div class="form-group">
+                    <p><b>From City:</b></p>
+                    <select asp-for="FromCity" id="cityList"></select>
+                </div>
+
+            <div class="form-group">
+                <p><b>To Country</b></p>
+                <select asp-for="ToCountry" asp-items="@(ViewData["CountryList"] as List<SelectListItem>)" id="countryList1" onchange="DropDownList()"></select>
+            </div>
+
+
+                <div class="form-group">
+                    <p><b>To City</b></p>
+                    <select asp-for="ToCity" id="cityList1"></select>
+                </div>
+
+
+
+            <div class="form-group">
+                <p><b>Currency</b></p>
+                <select asp-for="Currency" asp-items="@(ViewData["FromCurrencyList"] as List<SelectListItem>)" id="currency"></select>
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="ParcelWeight">Parcel Weight (KG):</label>
+                <input asp-for="ParcelWeight" id="ParcelWeight">
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="ParcelWeight" class="text-danger"></span>
+                </div>
+            </div>
+           
+            <div class="form-group">
+                <label asp-for="ItemDescription">Item Description:</label>
+                <input asp-for="ItemDescription" id="ItemDescription">
+                <div class="col-sm-9 col-md-12">
+                    <span asp-validation-for="ItemDescription" class="text-danger"></span>
+                    </div>
+            </div>
+            <div class="form-group form-buttons">
+                <button type="submit" value="AddParcel" id="submitParcel">Add Parcel</button>
+                <br />
+                <a asp-action="Homepage" id="backBtn">Back to Homepage</a>
+            </div>
+
+        </form>
+
+
+        <script>
+            function handleDropDownList() {
+                var countryDropdown = document.getElementById("countryList");
+                var cityDropdown = document.getElementById("cityList");
+
+                // Get the selected country value
+                var selectedCountry = countryDropdown.value;
+
+                // Clear previous city options
+                cityDropdown.innerHTML = '';
+
+                var countryToCities = {
+                    "China": ["Select", "Beijing", "Hong Kong"],
+                    "USA": ["Select", "San Francisco", "New York"],
+                    "France": ["Select", "Paris"],
+                    "UK": ["Select", "London"],
+                    "Malaysia": ["Select", "Kuala Lumpur"],
+                    "Australia": ["Select", "Sydney"],
+                    "Singapore": ["Select", "Singapore"],
+                    "Japan": ["Select", "Tokyo"],
+                };
+
+                // Get the cities for the selected country
+                var cities = countryToCities[selectedCountry];
+
+                // Populate city options based on the selected country
+                for (var i = 0; i < cities.length; i++) {
+                    var city = cities[i];
+                    cityDropdown.innerHTML += '<option value="' + city + '">' + city + '</option>';
+                }
+            }
+
+            function DropDownList() {
+                var countryDropdown = document.getElementById("countryList1");
+                var cityDropdown = document.getElementById("cityList1");
+
+                // Get the selected country value
+                var selectedCountry = countryDropdown.value;
+
+                // Clear previous city options
+                cityDropdown.innerHTML = '';
+
+                // Create a mapping of country to cities
+                var countryToCities = {
+                    "China": ["Select", "Beijing", "Hong Kong"],
+                    "USA": ["Select", "San Francisco", "New York"],
+                    "France": ["Select", "Paris"],
+                    "UK": ["Select", "London"],
+                    "Malaysia": ["Select", "Kuala Lumpur"],
+                    "Australia": ["Select", "Sydney"],
+                    "Singapore": ["Select", "Singapore"],
+                    "Japan": ["Select", "Tokyo"],
+                };
+
+                // Get the cities for the selected country
+                var cities = countryToCities[selectedCountry];
+
+                // Populate city options based on the selected country
+                for (var i = 0; i < cities.length; i++) {
+                    var city = cities[i];
+                    cityDropdown.innerHTML += '<option value="' + city + '">' + city + '</option>';
+                }
+            }
+        </script>

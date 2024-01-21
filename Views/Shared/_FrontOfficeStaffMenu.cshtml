@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Assignment1</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Assignment1.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+    </style>
+
+    <header>
+
+
+        <nav class="navbar navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">NP Courier Service</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="offcanvas offcanvas-end offcanvas-dark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title text-white" id="offcanvasNavbarLabel">Welcome Front Office Staff! </h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+
+
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="~ /FrontOfficeStaff/Homepage">Home</a>
+                            </li>
+
+
+                        </ul>
+
+
+                        <li class="nav-item dropdown">
+
+                            <a class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Services
+                            </a>
+                            <ul class="dropdown-menu bg-grey" aria-labelledby="offcanvasNavbarDropdown">
+                                <li><a class="dropdown-item" href="~ /FrontOfficeStaff/ParcelDelivery">Add Parcel</a></li>
+                                <li><a class="dropdown-item" href="~/PaymentTransaction">Create Payment Transaction</a></li>
+                                <li><a class="dropdown-item" href="#">Issue Cash Voucher</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                            </ul>
+                        </li>
+
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+
+                            <hr class="dropdown-divider">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="Index">Logout</a>
+                            </li>
+
+
+                        </ul>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

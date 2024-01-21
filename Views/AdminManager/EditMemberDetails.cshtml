@@ -1,0 +1,44 @@
+﻿@model Assignment1.Models.Member
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+
+        h4{
+            text-align: center;
+        }
+    </style>
+</body>
+
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width: 700px;
+            padding: 15px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+
+@{
+    ViewData["Title"] = "Edit Member Details";
+}
+
+<h4 class="PageTitle">Edit Member Details</h4>
+
+            <div>
+                <a asp-action="CashVoucher"
+                   asp-controller="AdminManager">Back to List</a>
+            </div>        
+
+        </div>
+    </div>
+</div>

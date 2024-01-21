@@ -1,0 +1,78 @@
+﻿@model Assignment1.Models.PaymentTransaction
+
+
+
+@{
+    ViewData["Title"] = "PaymentTransaction";
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+    </style>
+</body>
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width: 700px;
+            padding: 45px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+
+            <h1>Create New Payment Transaction</h1>
+
+        </div>
+        <hr />
+       
+        <form asp-action="Add" class="parcel-form">
+
+            <div class="form-group">
+                <label asp-for="ParcelID">ParcelID</label>
+                <input asp-for="ParcelID" id="payment" class="form-control" />
+                <span asp-validation-for="ParcelID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <p><b>Currency</b></p>
+                <select asp-for="Currency" asp-items="@(ViewData["FromCurrencyList"] as List<SelectListItem>)" id="currency"></select>
+                <span asp-validation-for="Currency" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <p><b>Transaction Type</b></p>
+                <select asp-for="TranType" asp-items="@(ViewData["transactionTypeList"] as List<SelectListItem>)" id="tranType"></select>
+                <span asp-validation-for="TranType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AmtTran">Transaction Amount</label>
+                <input asp-for="AmtTran" class="form-control" />
+                <div class="col-sm-9 col-md-12">
+                <span asp-validation-for="AmtTran" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="TranDate">Transaction Date</label>
+                <input asp-for="TranDate" class="form-control" />
+                <span asp-validation-for="TranDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+
+            <div>
+                <a asp-action="Index">Back to Homepage</a>
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Assignment1
+build_property.RootNamespace = Assignment1
+build_property.ProjectDir = C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Natalie\OneDrive - Ngee Ann Polytechnic\Desktop\WEB assignment (2)\WEB assignment\Source Code\Assignment1\Assignment1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/CashVoucher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXENhc2hWb3VjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXGNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/createShippingandTransit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXGNyZWF0ZVNoaXBwaW5nYW5kVHJhbnNpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/EditMemberDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXEVkaXRNZW1iZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXEhvbWVwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/MemberDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXE1lbWJlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXHVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminManager/updateShippingandTransit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NYW5hZ2VyXHVwZGF0ZVNoaXBwaW5nYW5kVHJhbnNpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminStaff/CustomerVoucher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TdGFmZlxDdXN0b21lclZvdWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/AdminStaff/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TdGFmZlxIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/FrontOfficeStaff/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRPZmZpY2VTdGFmZlxIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/FrontOfficeStaff/IssueCashVoucher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRPZmZpY2VTdGFmZlxJc3N1ZUNhc2hWb3VjaGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/FrontOfficeStaff/ParcelDelivery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRPZmZpY2VTdGFmZlxQYXJjZWxEZWxpdmVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/FrontOfficeStaff/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJvbnRPZmZpY2VTdGFmZlxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/StationManagerHomeView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGF0aW9uTWFuYWdlckhvbWVWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Home/TrackingView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFja2luZ1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Login/Customerlogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3VzdG9tZXJsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Login/StaffLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU3RhZmZMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Parcel/ParcelIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyY2VsXFBhcmNlbEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/PaymentTransaction/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFRyYW5zYWN0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Shared/_DefaultMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZWZhdWx0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Shared/_FrontOfficeStaffMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gcm9udE9mZmljZVN0YWZmTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/Tracking/TrackingView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhY2tpbmdcVHJhY2tpbmdWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Natalie/OneDrive - Ngee Ann Polytechnic/Desktop/WEB assignment (2)/WEB assignment/Source Code/Assignment1/Assignment1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

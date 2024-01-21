@@ -1,0 +1,142 @@
+﻿@model Assignment1.Models.Shipping
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<body>
+    <style>
+        body {
+            background-color: coral;
+        }
+
+        h4 {
+            text-align: center;
+        }
+    </style>
+</body>
+
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width: 700px;
+            padding: 15px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+
+@{
+    ViewData["Title"] = "Create Shipping Rate and Transit Time";
+}
+<h3 class="PageTitle">Create shipping rate and transit time</h3>
+
+<hr />
+        <form asp-action="Create" class="shipping-form">
+            <div class="form-group">
+                    <p><b>From Country</b></p>
+                    <select asp-for="FromCountry" asp-items="@(ViewData["FromCountryList"] as List<SelectListItem>)" id="countryList" onchange="handleDropDownList()"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>From City:</b></p>
+                    <select asp-for="FromCity" id="cityList"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>To Country</b></p>
+                    <select asp-for="ToCountry" asp-items="@(ViewData["countryList"] as List<SelectListItem>)" id="countryList1" onchange="DropDownList()"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>To City</b></p>
+                    <select asp-for="ToCity" id="cityList1"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>Shipping Rate:</b></p>
+                    <select asp-for="ShippingRate" asp-items="@(ViewData["shippingList"] as List<SelectListItem>)" id="shippingList" onchange="DropDownList()"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>Currency:</b></p>
+                    <select asp-for="Currency" asp-items="@(ViewData["currencyList"] as List<SelectListItem>)" id="currencyList" onchange="DropDownList()"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>Transit Time:</b></p>
+                    <select asp-for="TransitTime" asp-items="@(ViewData["transitList"] as List<SelectListItem>)" id="transitList" onchange="DropDownList()"></select>
+            </div>
+            <div class="form-group">
+                    <p><b>Last Updated By:</b></p>
+                    <select asp-for="LastUpdatedBy" asp-items="@(ViewData["staffList"] as List<SelectListItem>)" id="staffList" onchange="DropDownList()"></select>
+            </div>
+            <div class="form-group form-buttons">
+                    <button type="submit" value="Create" id="createShippingandTransit">Create</button>
+                    <br />
+            </div>
+            <div>
+                   <a asp-action="Homepage"
+                      asp-controller="AdminManager">Back to Homepage</a>
+            </div>
+        </form>
+        </div>
+    </div>
+</div>
+
+            <script>
+                function handleDropDownList() {
+                    var countryDropdown = document.getElementById("countryList");
+                    var cityDropdown = document.getElementById("cityList");
+
+                    // Get the selected country value
+                    var selectedCountry = countryDropdown.value;
+
+                    // Clear previous city options
+                    cityDropdown.innerHTML = '';
+
+                    // Create a mapping of country to cities
+                    var countryToCities = {
+                        "Singapore": ["Select", "Singapore"],
+                    };
+
+                    // Get the cities for the selected country
+                    var cities = countryToCities[selectedCountry];
+
+                    // Populate city options based on the selected country
+                    for (var i = 0; i < cities.length; i++) {
+                        var city = cities[i];
+                        cityDropdown.innerHTML += '<option value="' + city + '">' + city + '</option>';
+                    }
+
+                }
+
+                function DropDownList() {
+                    var countryDropdown = document.getElementById("countryList1");
+                    var cityDropdown = document.getElementById("cityList1");
+
+                    // Get the selected country value
+                    var selectedCountry = countryDropdown.value;
+
+                    // Clear previous city options
+                    cityDropdown.innerHTML = '';
+
+                    // Create a mapping of country to cities
+                    var countryToCities = {
+                        "China": ["Select", "Beijing", "Hong Kong"],
+                        "USA": ["Select", "San Francisco", "New York"],
+                        "France": ["Select", "Paris"],
+                        "UK": ["Select", "London"],
+                        "Malaysia": ["Select", "Kuala Lumpur"],
+                        "Australia": ["Select", "Sydney"],
+                        "Singapore": ["Select", "Singapore"],
+                        "Japan": ["Select", "Tokyo"],
+                    };
+
+                    // Get the cities for the selected country
+                    var cities = countryToCities[selectedCountry];
+
+                    // Populate city options based on the selected country
+                    for (var i = 0; i < cities.length; i++) {
+                        var city = cities[i];
+                        cityDropdown.innerHTML += '<option value="' + city + '">' + city + '</option>';
+                    }
+
+                }
+            </script>

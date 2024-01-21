@@ -1,0 +1,74 @@
+﻿<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+@{
+    ViewData["Title"] = "Contact Us";
+}
+
+
+<body>
+    <style>
+        body{
+            background-color:coral;
+        }
+    </style>
+</body>
+
+<div class="wrapper fadeInDown">
+    <style>
+        #formContent {
+            max-width:600px;
+            padding:10px;
+        }
+    </style>
+    <div id="formContent">
+        <!-- Tabs Titles -->
+        <!-- Icon -->
+        <div class="fadeIn first">
+<h1>Contact Us</h1>
+</div>
+
+<form>
+    <div class="row mb-3">
+                <label for="companyname" class="col-sm-2 col-form-label fadeIn second">Company Name:</label>
+        <div class="col-sm-10">
+                    <input type="text" class="form-control fadeIn second" id="companyname" required>
+        </div>
+    </div>
+    <div class="row mb-3">
+                <label for="name" class="col-sm-2 col-form-label fadeIn second">Name:</label>
+        <div class="col-sm-10">
+                    <input type="text" class="form-control fadeIn second" id="name" required>
+        </div>
+    </div>
+    <div class="row mb-3">
+                <label for="contact" class="col-sm-2 col-form-label fadeIn second">Contact:</label>
+                <div class="col-sm-10 fadeIn second">
+            <input type="tel" id="phone" name="phone" pattern="[0-9]{3}[0-9]{2}[0-9]{3}">
+        </div>
+    </div>
+    <div class="row mb-3">
+                <label for="email" class="col-sm-2 col-form-label fadeIn second">Email:</label>
+        <div class="col-sm-10">
+                    <input type="email" class="form-control fadeIn second" id="email" required>
+        </div>
+    </div>
+    <div class="row mb-3">
+                <label for="enquries" class="col-sm-2 col-form-label fadeIn second">Enquiry:</label>
+                <div class="col-sm-10 fadeIn second">
+                    <select class="form-select form-select-sm" aria-label=".form-select-sm example" required>
+                <option selected>--Please Select--</option>
+                <option value="1">Report Missing Parcel</option>
+                <option value="2">Issue With Claiming Voucher</option>
+                <option value="3">Submit A Feedback</option>
+            </select>
+        </div>
+    </div>
+    <br />
+            <button type="submit" class="btn btn-primary fadeIn second">Submit</button>
+</form>
+
+        </div>
+    </div>

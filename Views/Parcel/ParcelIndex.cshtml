@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Assignment1.Models.Parcel>
+
+@{
+    ViewData["Title"] = "View Parcel";
+}
+
+<h4 class="PageTitle">View Parcel</h4>
+<!-- Add a partial view to display a list of staff records
+ in a tabular format. -->
+<partial name="~/Views/Home/TrackingView.cshtml" model="@Model" />
+

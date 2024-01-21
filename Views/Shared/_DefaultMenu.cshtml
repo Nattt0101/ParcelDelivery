@@ -1,0 +1,50 @@
+﻿<!-- A grey navbar that expands horizontally at medium device -->
+<nav class="navbar navbar-expand-md bg-light navbar-light">
+    <div class="container-fluid">
+        <!-- The brand(or icon) of the navbar -->
+        <a class="navbar-brand" href="~/Home/Index"
+           style="font-size:32px; font-weight:bold; color:#3399FF;">
+            NPCS
+        </a>
+        <!-- Toggle/collapsible Button, also known as hamburger button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#defaultNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Links that displayed as drop-down list when navbar collapsed -->
+        <div class="collapse navbar-collapse" id="defaultNavbar">
+            <!-- Links that are aligned to the left,
+            mr-auto: right margin auto-adjusted -->
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Book"
+                       asp-action="~/Home/Index">Home</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Book"
+                       asp-action="~/Login/StaffLogin">Staff Login</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Book"
+                       asp-action="~/Login/CustomerLogin">Customer Login</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Book"
+                       asp-action="~/FrontOfficeStaff/ParcelDelivery">Add Parcel</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Book"
+                       asp-action="~ /Fron">Home</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

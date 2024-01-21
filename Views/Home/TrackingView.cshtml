@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Assignment1.Models.Parcel>
+@{
+    ViewData["Title"] = "Tracking Homepage";
+}
+<div class=center>
+    <div class="fadeIn first">
+    <h1>Tracking</h1>
+<h3>Track your parcel</h3>
+</div>
+</div>
+<body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <style>
+                #formContent {
+                    -webkit-border-radius: 10px 10px 10px 10px;
+                    border-radius: 10px 10px 10px 10px;
+                    background: #fff;
+                    padding: 30px;
+                    width: 90%;
+                    max-width: 600px;
+                    position: relative;
+                    padding: 0px;
+                    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+                    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+                    text-align: center;
+                    margin-top: 2vw;
+                }
+            </style>
+            <!-- Tabs Titles -->
+            <!-- Icon -->
+            <div class="fadeIn first">
+
+    <h1 class="title">Display Parcel</h1>
+    </div>
+    <div class="table-responsive">
+        <table id="Parcel" class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>ParcelID</th>
+                    <th>Description</th>
+                    <th>Sender Name</th>
+                    <th>Sender Tel No</th>
+                    <th>Receiver Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ParcelID</td>
+                        <td>@item.ItemDescription</td>
+                        <td>@item.SenderName</td>
+                        <td>@item.SenderTelNo</td>
+                        <td>@item.ReceiverName</td>
+
+                    </tr>
+                }
+
+            </tbody>
+            <!-- Add more rows as needed -->
+        </table>
+
+    </div>
+        </div>
+</body>
+
+
+
+<div class="center">
+    </br>
+    <br />
+    <h7>If you are a non-registered customer and wants to track a parcel, please contact us.</h7><br />
+    <h7>However if you are a registered customer and you face some issues you can use the  </h7><br />
+    <h7>feedback/enquiry feature to talk to a station manager.</h7>
+</div>
